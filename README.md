@@ -15,6 +15,8 @@ An Xposed/LSPosed module, by [DroidRooter](https://droidrooter.com).
 [![Telegram](https://img.shields.io/badge/Telegram-@DroidRooter-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DroidRooter)
 [![Facebook](https://img.shields.io/badge/Facebook-DroidRooter-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/droidrooter)
 
+**Read this in other languages:** [Español](README.es.md) · [العربية](README.ar.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [Français](README.fr.md) · [Italiano](README.it.md)
+
 </div>
 
 ---
